@@ -1,0 +1,1 @@
+A generative text model is an artificial intelligence system designed to produce human-like text based on input it receives. It uses large amounts of training data and advanced machine learning techniques—primarily deep learning—to generate coherent, contextually appropriate, and often creative responses.
